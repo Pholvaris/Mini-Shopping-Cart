@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mini-Shopping-Cart/static/css/main.343669d4.chunk.css",
+    "main.js": "/Mini-Shopping-Cart/static/js/main.f5c41883.chunk.js",
+    "main.js.map": "/Mini-Shopping-Cart/static/js/main.f5c41883.chunk.js.map",
+    "runtime-main.js": "/Mini-Shopping-Cart/static/js/runtime-main.dbf6bf35.js",
+    "runtime-main.js.map": "/Mini-Shopping-Cart/static/js/runtime-main.dbf6bf35.js.map",
+    "static/js/2.b926cd49.chunk.js": "/Mini-Shopping-Cart/static/js/2.b926cd49.chunk.js",
+    "static/js/2.b926cd49.chunk.js.map": "/Mini-Shopping-Cart/static/js/2.b926cd49.chunk.js.map",
+    "static/js/3.eff5cea1.chunk.js": "/Mini-Shopping-Cart/static/js/3.eff5cea1.chunk.js",
+    "static/js/3.eff5cea1.chunk.js.map": "/Mini-Shopping-Cart/static/js/3.eff5cea1.chunk.js.map",
+    "index.html": "/Mini-Shopping-Cart/index.html",
+    "static/css/main.343669d4.chunk.css.map": "/Mini-Shopping-Cart/static/css/main.343669d4.chunk.css.map",
+    "static/js/2.b926cd49.chunk.js.LICENSE.txt": "/Mini-Shopping-Cart/static/js/2.b926cd49.chunk.js.LICENSE.txt",
+    "static/media/cartlogo.e26818c0.png": "/Mini-Shopping-Cart/static/media/cartlogo.e26818c0.png",
+    "static/media/shoppinglogo.434a8ca2.png": "/Mini-Shopping-Cart/static/media/shoppinglogo.434a8ca2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf6bf35.js",
+    "static/js/2.b926cd49.chunk.js",
+    "static/css/main.343669d4.chunk.css",
+    "static/js/main.f5c41883.chunk.js"
+  ]
+}
