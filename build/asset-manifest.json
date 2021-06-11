@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mini_Shopping_Cart/static/css/main.343669d4.chunk.css",
+    "main.js": "/Mini_Shopping_Cart/static/js/main.6f6fcac4.chunk.js",
+    "main.js.map": "/Mini_Shopping_Cart/static/js/main.6f6fcac4.chunk.js.map",
+    "runtime-main.js": "/Mini_Shopping_Cart/static/js/runtime-main.ee9dd9d4.js",
+    "runtime-main.js.map": "/Mini_Shopping_Cart/static/js/runtime-main.ee9dd9d4.js.map",
+    "static/js/2.497fb4bb.chunk.js": "/Mini_Shopping_Cart/static/js/2.497fb4bb.chunk.js",
+    "static/js/2.497fb4bb.chunk.js.map": "/Mini_Shopping_Cart/static/js/2.497fb4bb.chunk.js.map",
+    "static/js/3.58759720.chunk.js": "/Mini_Shopping_Cart/static/js/3.58759720.chunk.js",
+    "static/js/3.58759720.chunk.js.map": "/Mini_Shopping_Cart/static/js/3.58759720.chunk.js.map",
+    "index.html": "/Mini_Shopping_Cart/index.html",
+    "static/css/main.343669d4.chunk.css.map": "/Mini_Shopping_Cart/static/css/main.343669d4.chunk.css.map",
+    "static/js/2.497fb4bb.chunk.js.LICENSE.txt": "/Mini_Shopping_Cart/static/js/2.497fb4bb.chunk.js.LICENSE.txt",
+    "static/media/cartlogo.e26818c0.png": "/Mini_Shopping_Cart/static/media/cartlogo.e26818c0.png",
+    "static/media/shoppinglogo.434a8ca2.png": "/Mini_Shopping_Cart/static/media/shoppinglogo.434a8ca2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9dd9d4.js",
+    "static/js/2.497fb4bb.chunk.js",
+    "static/css/main.343669d4.chunk.css",
+    "static/js/main.6f6fcac4.chunk.js"
+  ]
+}
